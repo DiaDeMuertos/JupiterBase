@@ -8,17 +8,28 @@
 ### Copy Paste
 
 Create if do not exist jupiter folder and get in.
+
 ```
 $ mkdir jupiter
 $ cd jupiter
 ```
+
 Create virtual env.
+
 ```
 $ python3 -m venv venv
 ```
+
 Activate virtualenv.
+
 ```
 $ source ./venv/bin/activate
+```
+
+Activate virtualenv.
+
+```
+$ deactivate
 ```
 
 ## Links
