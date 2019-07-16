@@ -32,6 +32,12 @@ Activate virtualenv.
 $ deactivate
 ```
 
+To install all the libraries.
+```
+$ pip install -r requirements.txt
+```
+
+
 ## Links
 
 - [Codebasics: Linear Regression Single Variable](https://www.youtube.com/watch?v=8jazNUpO3lQ)
